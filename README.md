@@ -1,2 +1,84 @@
-# nobbystyles.github.io
-Support Website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>On This Day History Widgets - Support</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .container {
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        .support-section {
+            margin-top: 20px;
+        }
+        .email-button {
+            display: inline-block;
+            background-color: #007AFF;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 500;
+            margin-top: 10px;
+        }
+        .email-button:hover {
+            background-color: #0062CC;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            text-align: center;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>On This Day History Widgets Support</h1>
+        
+        <div class="support-section">
+            <h2>Need Help?</h2>
+            <p>Thank you for using On This Day History Widgets. If you're experiencing any issues with our app or have questions, we're here to help.</p>
+            
+            <h3>Contact Support</h3>
+            <p>For the fastest response, please email us at:</p>
+            <a href="mailto:onthisdayhistorywidgets@gmail.com" class="email-button">onthisdayhistorywidgets@gmail.com</a>
+            
+            <p>Please include the following information in your email:</p>
+            <ul>
+                <li>Device model</li>
+                <li>iOS version</li>
+                <li>App version</li>
+                <li>Description of the issue</li>
+                <li>Steps to reproduce (if applicable)</li>
+                <li>Screenshots (if applicable)</li>
+            </ul>
+        </div>
+        
+        <div class="support-section">
+            <h2>Frequently Asked Questions</h2>
+            <p>Coming soon! Check back for common questions and answers.</p>
+        </div>
+    </div>
+    
+    <footer>
+        <p>© 2025 On This Day History Widgets. All rights reserved.</p>
+    </footer>
+</body>
+</html>
